@@ -8,6 +8,7 @@ public class ClassOne {
         System.out.println("Batch 35/36 learn github");
         System.out.println("We like git but we will like it when we will do more practice");
 
+        System.out.println("We love git");
 
     }
 }
